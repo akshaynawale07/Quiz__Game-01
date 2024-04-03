@@ -1,0 +1,96 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  
+  font-size: 120%;
+ 
+  background-image: url(pic.jpg);
+}
+
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: rgb(193, 186, 198);
+  background: #746ace;
+  text-align: center;
+  border: 1px solid #090909;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+form, .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: rgb(155, 198, 229);
+  border-radius: 0px 0px 10px 10px;
+  border-color: #090909;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid rgb(221, 204, 204);
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: rgb(228, 212, 212);
+  background: #41a9b7;
+  border: none;
+  border-radius: 5px;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #a27a2f; 
+  background: #dff0d8; 
+  border: 1px solid #1319dc;
+  margin-bottom: 20px;
+}
+.wel{
+
+font-size: 40px;
+height: 20px;
+margin: 10px;
+
+}
+.content {
+  height: 200px;
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #8ba5c6;
+  background:rgb(165, 203, 231);
+  border-radius: 0px 0px 10px 10px;
+  border-color: #181010;
+}
+.log{
+margin-left: 400px;
+
+}
+
+
+
+
